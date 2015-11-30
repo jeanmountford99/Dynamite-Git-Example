@@ -7,4 +7,6 @@ Let's learn git basics together!
 
 CHANGES, CHANGES EVERYWHERE !!  EXPERIMENTATION OF BRANCHING !!
 
+Blah blah
+
 Phil was here
